@@ -1,0 +1,9 @@
+{
+  "host": "127.0.0.1",
+  "porta": 0,
+  "numero_clientes": 3,
+  "timeout_segundos": 2.0,
+  "tempo_processamento": 0.3,
+  "clientes_com_falha": [3],
+  "diretorio_evidencias": "evidencias"
+}
