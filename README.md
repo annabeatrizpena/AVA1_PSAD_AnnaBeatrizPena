@@ -27,3 +27,8 @@ Os arquivos de evidência devem ser gerados executando o programa; não use resu
 
 ## Observação técnica
 A eleição Bully é simulada pelo coordenador usando a lista de nós que responderam ao heartbeat. A lógica de seleção segue o critério de maior identificador ativo, mas as mensagens de eleição não são trocadas diretamente em conexões peer-to-peer entre os clientes. Se a avaliação exigir eleição distribuída peer-to-peer, essa parte deverá ser ampliada.
+
+
+## Autora
+Anna Beatriz Pena
+Universidade Veiga de Almeida - Engenharia da Computação.
